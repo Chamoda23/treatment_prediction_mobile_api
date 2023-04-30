@@ -20,3 +20,4 @@ scikit-image==0.20.0
 tensorflow-gpu==2.6.0
 torch==2.0.0
 tqdm==4.65.0
+libpq-dev==9.0.0
