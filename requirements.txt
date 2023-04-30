@@ -1,6 +1,3 @@
-charset-normalizer==2.1.1
-cloudpickle==2.2.1
-colorama==0.4.6
 cupy-cuda112==10.6.0
 Cython==0.29.34
 debugpy==1.6.7
